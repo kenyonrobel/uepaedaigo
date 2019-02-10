@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpaitah.dieselpoint.com/sitemap.xml
